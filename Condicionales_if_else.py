@@ -4,7 +4,6 @@
 
 # La estructura se inicia llamando a la palabra clave if condición: sentencia
 
-
 x = 20 
 y = 10
 
